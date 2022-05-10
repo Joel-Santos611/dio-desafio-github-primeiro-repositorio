@@ -1,3 +1,3 @@
 # Dedesafio github primeiro-repositorio
-##Repositorio para  primeiros desafios sobre github da dio
+## Repositório paraos primeiros desafios sobre git/github da DIO
 desafio de projecto sobre git/github
