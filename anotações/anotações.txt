@@ -1,1 +1,0 @@
-Aqui está um arquivo de anotações para os comandos "git add .", "git commit -m 'Comentário'", e "git push"
