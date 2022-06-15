@@ -1,3 +1,3 @@
 # Dedesafio github primeiro-repositorio
-## Repositório paraos primeiros desafios sobre git/github da DIO
+## Repositório para os desafios do bootcamp tqi fullstack developer da DIO
 desafio de projecto sobre git/github
